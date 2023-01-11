@@ -1,6 +1,6 @@
 value = 0
 print("the numbers are : ")
-while value < 5:
+while value < 10:
     value = value + 1
     if value == 4:
         continue  # here since continue is given this iteration will be skipped
