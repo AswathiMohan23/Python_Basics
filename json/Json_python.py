@@ -20,3 +20,4 @@ employee_details = '''
 '''
 data = json.loads(employee_details)
 print(data)
+print("\n")
