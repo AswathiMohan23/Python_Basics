@@ -1,4 +1,7 @@
 # json string to python object
+# json.loads() method can be used to parse a valid JSON string and convert it into a Python Dictionary.
+
+
 import json
 employee_details = '''
 {
