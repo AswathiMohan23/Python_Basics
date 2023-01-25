@@ -1,5 +1,9 @@
 
 # importing functools for reduce()
+# reduce() is defined in “functools” module,
+# reduce() stores the intermediate result and only returns the final summation value.
+
+
 import functools
 
 # importing operator for operator functions
